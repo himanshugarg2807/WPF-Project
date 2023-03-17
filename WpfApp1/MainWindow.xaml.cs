@@ -35,6 +35,8 @@ namespace WpfApp1
                 {
                     lstNames.Items.Add(txtName.Text);
                     txtName.Clear();
+                    txtName.Clear();
+
                 }
                 
             }
